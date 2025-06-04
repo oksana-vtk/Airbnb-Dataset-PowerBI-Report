@@ -32,16 +32,16 @@ with the columns listing_id and amenity_cleaned.
 * Since the price in the `Listings` table is in local currency,  I collected historical exchange rates to USD for each country in the dataset.
 These were sourced from the official websites of national banks or financial institutions and cover the full observation period from 2008 to 2021.
 
-Bangkok - Thailand - THB - Thai Baht
-Cape Town - South Africa - ZAR - South African Rand
-Hong Kong - Hong Kong - HKD - Hong Kong Dollar
-Istanbul - Turkey - TRY - Turkish Lira
-Mexico City - Mexico - MXN - Mexican Peso
-New York - USA - USD - American Dollar
-Paris - France - EUR - Euro
-Rio de Janeiro - Brazil - BRL - Brazilian Real
-Rome - Italy - EUR - Euro
-Sydney - Australia - AUD - Australian Dollar
+  * Bangkok - Thailand - THB - Thai Baht
+  * Cape Town - South Africa - ZAR - South African Rand
+  * Hong Kong - Hong Kong - HKD - Hong Kong Dollar
+  * Istanbul - Turkey - TRY - Turkish Lira
+  * Mexico City - Mexico - MXN - Mexican Peso
+  * New York - USA - USD - American Dollar
+  * Paris - France - EUR - Euro
+  * Rio de Janeiro - Brazil - BRL - Brazilian Real
+  * Rome - Italy - EUR - Euro
+  * Sydney - Australia - AUD - Australian Dollar
 
 * Based on this data, I created a fact table `Exchange Rates`.
 * I also created a `Calendar` Date table:
