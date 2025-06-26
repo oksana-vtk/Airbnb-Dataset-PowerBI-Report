@@ -8,7 +8,7 @@ along with calculated measures and an interactive Power BI Report.
 
 ******
 ## Project: Airbnb Listings & Reviews
-Airbnb data for 250,000+ listings across 10 major cities, with 5 milion reviews.
+Airbnb data for 250,000+ listings across 10 major cities, with 5 million reviews.
 
 ### About Dataset
 Airbnb data for 250,000+ listings in 10 major cities, including information about hosts, pricing, location, and room type, along with over 5 million historical reviews.
